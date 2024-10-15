@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(31, 31, 31);
+    font-family: "Roboto Slab", serif;
+}
+.tartalom{
+    display: flex;
+    vertical-align: top; 
+}
+.card{
+    background-color: rgb(100, 5, 179);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 40%;
+    box-shadow: 5px;
+}
+
+img{
+    width: 550px;
+    margin-left: 100px;
+    margin-right: auto;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    color:  rgb(255, 255, 255);
+}
+h1{
+    text-align:center ;
+    color:  rgb(125, 9, 219);
+}
